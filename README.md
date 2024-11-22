@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on:<br>Full-stack development projects and mobile applications.<br><br>🤝 I'm looking to collaborate on:<br>Web and mobile app development, as well as AI/ML solutions.<br><br>🛠 I'm looking for help with:<br>Improving app performance and scaling backend systems.<br><br>🌱 I'm currently learning:<br>Neural networks and advanced machine learning.<br><br>💬 Ask me about:<br>Software engineering, freelancing, and product development.<br><br>⚡ Fun fact: <br>I enjoy solving complex problems with creative coding solutions!
+👨‍💻 I'm currently working on: Full-stack development projects and mobile applications.<br><br>🤝 I'm looking to collaborate on: Web and mobile app development, as well as AI/ML solutions.<br><br>🌱 I'm currently learning: Neural networks, Computer Vision, Big Data and advanced Machine Learning.<br><br>💬 Ask me about: Software engineering, freelancing, and product development.<br><br>
 
 
 ## 🌐 Socials:
